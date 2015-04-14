@@ -8,7 +8,7 @@ public class Main {
 	
 	public static void main(String[] args) {
 		Triangulo triangulo= leerArch(PATH_IN);
-		System.out.println("prueba de comentario");
+		System.out.println("prueba de comentario esteban");
 		System.out.println(triangulo.getType());
 	}
 
